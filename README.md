@@ -1,4 +1,5 @@
 # BioEmergences-code
+Par Nathan Abitbol, sous la direction de Thierry Savy. Laboratoire Matières et Systèmes Complexes, équipe BioEmergences.
 
 #### Patches_emb :
 Fichier servant à exploiter le fichier EMB en sortie de l'algorithme de tracking. Créations des patch avec les tâches gaussiennes, des données d'entrainement et de test pour la détéection de divisions cellulaires. Identification des cellules qui se divisent et leurs cellules filles pour chaque pas de temps.
