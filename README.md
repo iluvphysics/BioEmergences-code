@@ -9,7 +9,9 @@ Fonctions permettant de convertir des fichiers VTK, ceux utilisés en sortie du 
 
 #### tracking
 Pour la détection de divisions cellulaires.
+
 entrainement tracking: Configuration et entrainement avec les fonctions de CSBDeep
+
 evaluation tracking : fonctions permettant de faire prédire des images au modèle, et de l'évaluer sur les données de test.
 
 #### denoising
